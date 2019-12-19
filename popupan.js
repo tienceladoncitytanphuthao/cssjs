@@ -1,5 +1,5 @@
 
-	var url_popup = 'https://tienceladoncitytanphu.blogspot.com/';
+	var url_popup = 'https://bit.ly/2r37SFT';
 
       //<![CDATA[
 	  // var url_ppp = 'http://bit.ly/1KmPNYe';
